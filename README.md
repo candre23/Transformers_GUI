@@ -1,6 +1,6 @@
 Don't you hate it when a brand new model drops, but all the actually-good backends take a while to add support?  Well now you don't have to wait 
 for the LCPP people to get off their butts and add new arches.  This janky vibeslop will load anything that is supported by transformers and allow 
-you to pester it with a friendly pointy-clicky graphical interface instead of manually fiddling with python scripts like some king of cave person.  
+you to pester it with a friendly pointy-clicky graphical interface instead of manually fiddling with python scripts like some kind of cave person.  
 Usage should be fairly self-explanatory.
 
 ![gui1](https://github.com/user-attachments/assets/734b83f4-a3ca-4f24-b56d-cc4616f243a8)
